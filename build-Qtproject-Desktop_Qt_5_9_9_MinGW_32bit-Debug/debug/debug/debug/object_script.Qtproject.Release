@@ -1,0 +1,12 @@
+INPUT(
+./release\connection.o
+./release\employe.o
+./release\main.o
+./release\mainwindow.o
+./release\smtp.o
+./release\thrdialog.o
+./release\qrc_Resources.o
+./release\moc_mainwindow.o
+./release\moc_smtp.o
+./release\moc_thrdialog.o
+);

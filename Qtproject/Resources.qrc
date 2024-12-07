@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/1280px-HD_transparent_picture.png</file>
+        <file>img/4400629.png</file>
+        <file>img/415260602_915404969798523_5173262210140723394_n.png</file>
+        <file>img/415287996_755433109383168_7582230033290630906_n.png</file>
+        <file>img/415327179_385681727386246_4607154393480602269_n-removebg-preview.png</file>
+        <file>img/99484734571a59fde41fc712a14c32c3.png</file>
+        <file>img/images.jfif</file>
+        <file>img/LOG-removebg-preview.png</file>
+        <file>img/padlock.png</file>
+        <file>img/user_747376.png</file>
+        <file>img/health-still-life-with-copy-space.jpg</file>
+    </qresource>
+</RCC>
